@@ -1,24 +1,14 @@
-# README
+# The Hacking Class
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A exo to learn how to manipulate Databases with Rails and ActiveRecord
 
-Things you may want to cover:
+Things you may want to know:
 
-* Ruby version
+* Ruby version 2.5.1
 
-* System dependencies
+* Rails version 5.2.0
 
-* Configuration
+## The Exo
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To create a database of students that can sign to only one course.
+One course can have many students

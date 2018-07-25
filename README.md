@@ -10,7 +10,7 @@ Things you may want to know:
 
 ### To install
 
-``sh
+``
 	bundle install
 ``
 
